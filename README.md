@@ -4,7 +4,7 @@ This is my final individual portfolio project for class. The site is an aspirati
 _________________________________________________________________________________________________________________________
 Live Site
 
-https://modrilexx.github.io/Professional-Portflio/
+https://modrilexx.github.io/Professional-Portfolio/
 _____________________________________________________________________________________________________________________________
 ## Project Overview
 
