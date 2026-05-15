@@ -2,9 +2,12 @@
 
 This is my final individual portfolio project for class. The site is an aspirational professional portfolio that represents the kind of professional direction I want to move toward: AI-assisted product design, creative systems, digital storytelling, and web-based portfolio development.
 _________________________________________________________________________________________________________________________
-Live Site
+Live Site:
 
 https://modrilexx.github.io/Professional-Portfolio/
+
+Youtube Presentation:
+https://youtu.be/-8Ztk_Bk3sw
 _____________________________________________________________________________________________________________________________
 ## Project Overview
 
